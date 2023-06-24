@@ -41,5 +41,8 @@ Guardar en un archivo CSV los personajes que hayan recibido esta actualización.
 
 ## Link GDB
 
+Quiero aclarar que no llegué a completar la totalidad de los requerimientos, pero tampoco quise no entregar nada<br/>
+así que adjunto lo que he podido relaizar.
 
 * [proyecto](https://onlinegdb.com/QA81pi_pz)
+
